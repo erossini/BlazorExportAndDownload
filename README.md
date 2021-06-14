@@ -3,7 +3,7 @@ Creating and exporting data to Excel file is one of the frequently used feature 
 
 In this [new post](https://www.puresourcecode.com/dotnet/blazor/how-to-export-data-to-excel-in-blazor), I'm going to show how to export data to #Excel in #Blazor #WebAssembly. Exporting data to Excel file is one of the most requested feature. Spoiler alert: it is not easy how it sounds...
 
-![The result in action](https://i2.wp.com/www.puresourcecode.com/wp-content/uploads/2021/06/BlazorExportExcel.gif?resize=768%2C473&ssl=1)
+![The result in action](https://www.puresourcecode.com/wp-content/uploads/2021/06/BlazorExportExcel.gif)
 
 ## More examples and documentation
 *   [Write a reusable Blazor component](https://www.puresourcecode.com/dotnet/blazor/write-a-reusable-blazor-component/)
